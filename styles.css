@@ -1,7 +1,7 @@
 body {
     margin: 400px;
     background-image: url('./images/wave-haikei.png');
-    height: 90%;
+    height: auto;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
