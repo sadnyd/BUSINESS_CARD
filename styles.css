@@ -1,10 +1,6 @@
 body {
     margin: 400px;
-    /*
-    Challenge:
-    Find a web safe font you like, and add it 
-    to your card.
-    */
+    body-image='./wave-haikei.png'
     font-family: Courier New, Geneva, Tahoma, sans-serif;
 }
 
