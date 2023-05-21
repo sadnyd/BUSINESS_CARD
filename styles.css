@@ -1,6 +1,10 @@
 body {
     margin: 400px;
-    body-image='./wave-haikei.png'
+    background-image: url('images/wave-haikei.png');
+    height: 90%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     font-family: Courier New, Geneva, Tahoma, sans-serif;
 }
 
