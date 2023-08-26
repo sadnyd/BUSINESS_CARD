@@ -1,7 +1,6 @@
 body {
     margin: 400px;
     background-image: url('./images/blob-scatter-haikei.png');
-    
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -23,7 +22,7 @@ body {
 }
 
 .card {
-    width: 330px;
+    width: 400px;
     margin: 0 auto;
     padding: 20px;
     display: flex;
@@ -34,13 +33,7 @@ body {
     border-bottom: 7px solid #3066be;
     border-radius: 2%;
     
-    
-        
-    /*
-    Challenge:
-    Find a color palette you like on Coolors.co
-    and use it in your business card.
-     */
+
 }
 
 .card:hover{
@@ -56,20 +49,4 @@ body {
     border: 1px dotted blue;
 }
 
-/*
-Stretch goals:
-Find other ways you can personalize 
-the design of your business card, e.g.:
-- change the border(s)
-- add border radius
-- shuffle the layout
-- shadows        🤯
-- hover effects  🤯🤯
-- animations     🤯🤯🤯
-*/
 
-/*
-Final challenge:
-Download the code to your local computer and place it
-in a folder called "business-card"
-*/
