@@ -1,18 +1,20 @@
 body {
-    margin: 400px;
+    margin: 40px;
+    padding: 40px;
     background-image: url('./images/blob-scatter-haikei.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     font-family: Courier New, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
 }
 
 
 .avatar {
-    width: 35%;
-    height: 35%;
+    width: 200px;
+    height: 200px;
     border-radius: 2%;
-    padding: 3px;
+    padding: 5px;
     
     
 }
@@ -22,8 +24,8 @@ body {
 }
 
 .card {
-    top:100px;
-    width: 400px;
+    width: 500px;
+    height: 250px;
     margin: 0 auto;
     padding: 20px;
     display: flex;
@@ -31,7 +33,7 @@ body {
     text-align: center;
     background: #b4c5e4;
     color: #3c3744;
-    border-bottom: 7px solid #3066be;
+    border-bottom: 10px solid #3066be;
     border-radius: 2%;
     
 
@@ -43,11 +45,11 @@ body {
     transition: transform 0.15s;
     transform: scale(1.1);
    
-    /* animation: an 1s; */
+    
 }
 
 .border-blue {
-    border: 1px dotted blue;
+    border: 4px dotted blue;
 }
 
 
