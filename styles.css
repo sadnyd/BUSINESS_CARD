@@ -19,7 +19,7 @@ body {
     
 }
 .avatar:hover{
-    transform: rotate(-5deg) translate(-8px);
+    transform: rotate(-5deg);
     transition: transform 0.2s;
 }
 
